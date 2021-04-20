@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+#header {
+    text-align: center;
+    background-color: black;
+    color: #fff;
+    padding: 10px;
+}
+#footer {
+    text-align: center;
+    background-color: black;
+    color: #fff;
+    padding: 2px;
+}
